@@ -1,0 +1,56 @@
+2021-07-13 20:12:24.987 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-13 20:12:25.092 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-13 20:12:25.092 +07:00 [INF] Hosting environment: Development
+2021-07-13 20:12:25.093 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\APITemplate\Api
+2021-07-13 20:50:31.982 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-13 20:50:32.055 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-13 20:50:32.055 +07:00 [INF] Hosting environment: Development
+2021-07-13 20:50:32.056 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\APITemplate\Api
+2021-07-13 20:53:30.887 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-13 20:53:30.957 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-13 20:53:30.957 +07:00 [INF] Hosting environment: Development
+2021-07-13 20:53:30.958 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\APITemplate\Api
+2021-07-13 21:00:23.733 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-13 21:00:23.819 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-13 21:00:23.820 +07:00 [INF] Hosting environment: Development
+2021-07-13 21:00:23.821 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\APITemplate\Api
+2021-07-13 21:00:46.874 +07:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results.
+2021-07-13 21:00:46.884 +07:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results.
+2021-07-13 21:01:41.464 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-13 21:01:41.567 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-13 21:01:41.568 +07:00 [INF] Hosting environment: Development
+2021-07-13 21:01:41.568 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\APITemplate\Api
+2021-07-13 21:03:28.430 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-13 21:03:28.514 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-13 21:03:28.515 +07:00 [INF] Hosting environment: Development
+2021-07-13 21:03:28.515 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\APITemplate\Api
+2021-07-13 21:04:27.265 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-13 21:04:27.331 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-13 21:04:27.331 +07:00 [INF] Hosting environment: Development
+2021-07-13 21:04:27.332 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\APITemplate\Api
+2021-07-13 21:04:54.626 +07:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results.
+2021-07-13 21:04:54.630 +07:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results.
+2021-07-13 21:13:03.731 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-13 21:13:03.812 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-13 21:13:03.813 +07:00 [INF] Hosting environment: Development
+2021-07-13 21:13:03.814 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\APITemplate\Api
+2021-07-13 21:15:14.356 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-13 21:15:14.427 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-13 21:15:14.428 +07:00 [INF] Hosting environment: Development
+2021-07-13 21:15:14.428 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\APITemplate\Api
+2021-07-13 21:16:27.331 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-13 21:16:27.408 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-13 21:16:27.409 +07:00 [INF] Hosting environment: Development
+2021-07-13 21:16:27.409 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\APITemplate\Api
+2021-07-13 21:18:16.324 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-13 21:18:16.387 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-13 21:18:16.387 +07:00 [INF] Hosting environment: Development
+2021-07-13 21:18:16.388 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\APITemplate\Api
+2021-07-13 21:20:04.323 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-13 21:20:04.390 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-13 21:20:04.391 +07:00 [INF] Hosting environment: Development
+2021-07-13 21:20:04.391 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\APITemplate\Api
+2021-07-13 21:21:55.085 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-13 21:21:55.189 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-13 21:21:55.190 +07:00 [INF] Hosting environment: Development
+2021-07-13 21:21:55.190 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\APITemplate\Api

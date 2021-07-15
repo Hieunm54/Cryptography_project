@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>net5.0</TargetFramework>
+		<OutputType>Library</OutputType>
+		<IsPackable>true</IsPackable>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="AutoMapper" Version="10.1.1" />
+		<!--<PackageReference Include="Microsoft.AspNet.WebPages" Version="3.2.7" />-->
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.1" />
+		<PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="5.0.0" />
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+		<PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="5.0.0-alpha.2" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Folder Include="Log\DbContext\" />
+		<Folder Include="Migrations\" />
+	</ItemGroup>
+
+</Project>

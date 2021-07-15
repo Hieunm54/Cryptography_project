@@ -1,0 +1,118 @@
+2021-07-14 19:52:28.940 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-14 19:52:29.054 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-14 19:52:29.054 +07:00 [INF] Hosting environment: Development
+2021-07-14 19:52:29.056 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\HahaCoin147\APITemplate\Api
+2021-07-14 19:56:09.172 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-14 19:56:09.258 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-14 19:56:09.260 +07:00 [INF] Hosting environment: Development
+2021-07-14 19:56:09.261 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\HahaCoin147\APITemplate\Api
+2021-07-14 20:00:49.128 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-14 20:00:49.235 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-14 20:00:49.236 +07:00 [INF] Hosting environment: Development
+2021-07-14 20:00:49.237 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\HahaCoin147\APITemplate\Api
+2021-07-14 20:02:19.088 +07:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results.
+2021-07-14 20:02:19.096 +07:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results.
+2021-07-14 20:16:14.440 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-14 20:16:14.545 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-14 20:16:14.546 +07:00 [INF] Hosting environment: Development
+2021-07-14 20:16:14.547 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\HahaCoin147\APITemplate\Api
+2021-07-14 20:18:57.112 +07:00 [INF] Application is shutting down...
+2021-07-14 21:30:34.357 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-14 21:30:34.452 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-14 21:30:34.453 +07:00 [INF] Hosting environment: Development
+2021-07-14 21:30:34.453 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\HahaCoin147\APITemplate\Api
+2021-07-14 21:30:47.979 +07:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results.
+2021-07-14 21:30:47.985 +07:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results.
+2021-07-14 21:33:55.149 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-14 21:33:55.241 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-14 21:33:55.242 +07:00 [INF] Hosting environment: Development
+2021-07-14 21:33:55.242 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\HahaCoin147\APITemplate\Api
+2021-07-14 21:38:35.389 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-14 21:38:35.487 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-14 21:38:35.488 +07:00 [INF] Hosting environment: Development
+2021-07-14 21:38:35.489 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\HahaCoin147\APITemplate\Api
+2021-07-14 21:39:53.446 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-14 21:39:53.546 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-14 21:39:53.547 +07:00 [INF] Hosting environment: Development
+2021-07-14 21:39:53.548 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\HahaCoin147\APITemplate\Api
+2021-07-14 21:42:28.935 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-14 21:42:28.999 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-14 21:42:28.999 +07:00 [INF] Hosting environment: Development
+2021-07-14 21:42:29.000 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\HahaCoin147\APITemplate\Api
+2021-07-14 21:47:53.819 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-14 21:47:53.912 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-14 21:47:53.913 +07:00 [INF] Hosting environment: Development
+2021-07-14 21:47:53.913 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\HahaCoin147\APITemplate\Api
+2021-07-14 22:01:35.900 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-14 22:01:35.984 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-14 22:01:35.985 +07:00 [INF] Hosting environment: Development
+2021-07-14 22:01:35.986 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\HahaCoin147\APITemplate\Api
+2021-07-14 22:04:31.253 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-14 22:04:31.346 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-14 22:04:31.347 +07:00 [INF] Hosting environment: Development
+2021-07-14 22:04:31.347 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\HahaCoin147\APITemplate\Api
+2021-07-14 22:06:00.165 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-14 22:06:00.263 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-14 22:06:00.264 +07:00 [INF] Hosting environment: Development
+2021-07-14 22:06:00.264 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\HahaCoin147\APITemplate\Api
+2021-07-14 22:07:59.183 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-14 22:07:59.247 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-14 22:07:59.248 +07:00 [INF] Hosting environment: Development
+2021-07-14 22:07:59.248 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\HahaCoin147\APITemplate\Api
+2021-07-14 22:12:32.239 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-14 22:12:32.345 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-14 22:12:32.346 +07:00 [INF] Hosting environment: Development
+2021-07-14 22:12:32.347 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\HahaCoin147\APITemplate\Api
+2021-07-14 22:24:59.982 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-14 22:25:00.063 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-14 22:25:00.064 +07:00 [INF] Hosting environment: Development
+2021-07-14 22:25:00.064 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\HahaCoin147\APITemplate\Api
+2021-07-14 22:38:27.942 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-14 22:38:28.062 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-14 22:38:28.063 +07:00 [INF] Hosting environment: Development
+2021-07-14 22:38:28.064 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\HahaCoin147\APITemplate\Api
+2021-07-14 22:42:10.940 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-14 22:42:11.044 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-14 22:42:11.045 +07:00 [INF] Hosting environment: Development
+2021-07-14 22:42:11.046 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\HahaCoin147\APITemplate\Api
+2021-07-14 22:45:58.618 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-14 22:45:58.681 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-14 22:45:58.682 +07:00 [INF] Hosting environment: Development
+2021-07-14 22:45:58.682 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\HahaCoin147\APITemplate\Api
+2021-07-14 22:49:00.813 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-14 22:49:00.935 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-14 22:49:00.938 +07:00 [INF] Hosting environment: Development
+2021-07-14 22:49:00.939 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\HahaCoin147\APITemplate\Api
+2021-07-14 23:01:10.476 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-14 23:01:10.630 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-14 23:01:10.631 +07:00 [INF] Hosting environment: Development
+2021-07-14 23:01:10.631 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\HahaCoin147\APITemplate\Api
+2021-07-14 23:09:29.632 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-14 23:09:29.641 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-14 23:09:29.642 +07:00 [INF] Hosting environment: Development
+2021-07-14 23:09:29.647 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\HahaCoin147\APITemplate\Api
+2021-07-14 23:10:22.569 +07:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results.
+2021-07-14 23:10:22.575 +07:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results.
+2021-07-14 23:11:46.242 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-14 23:11:46.255 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-14 23:11:46.256 +07:00 [INF] Hosting environment: Development
+2021-07-14 23:11:46.257 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\HahaCoin147\APITemplate\Api
+2021-07-14 23:15:03.645 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-14 23:15:03.715 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-14 23:15:03.716 +07:00 [INF] Hosting environment: Development
+2021-07-14 23:15:03.716 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\HahaCoin147\APITemplate\Api
+2021-07-14 23:17:15.918 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-14 23:17:16.017 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-14 23:17:16.018 +07:00 [INF] Hosting environment: Development
+2021-07-14 23:17:16.018 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\HahaCoin147\APITemplate\Api
+2021-07-14 23:18:14.545 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-14 23:18:14.625 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-14 23:18:14.626 +07:00 [INF] Hosting environment: Development
+2021-07-14 23:18:14.627 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\HahaCoin147\APITemplate\Api
+2021-07-14 23:25:35.289 +07:00 [INF] Application is shutting down...
+2021-07-14 23:27:06.232 +07:00 [INF] Now listening on: http://localhost:5001
+2021-07-14 23:27:06.340 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-14 23:27:06.341 +07:00 [INF] Hosting environment: Development
+2021-07-14 23:27:06.342 +07:00 [INF] Content root path: D:\Hoc tap\20202 ATTT\HahaCoin147\APITemplate\Api
+2021-07-14 23:27:22.603 +07:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results.
+2021-07-14 23:27:22.619 +07:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results.
