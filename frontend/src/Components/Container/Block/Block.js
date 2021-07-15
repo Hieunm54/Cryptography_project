@@ -3,17 +3,17 @@ import Card from "react-bootstrap/Card";
 import ListGroup from "react-bootstrap/ListGroup";
 import ListGroupItem from "react-bootstrap/ListGroupItem";
 
-import Button from "react-bootstrap/Button";
-
 const Block = (props) => {
+  
   const cardClickHandler = (e) => {
     e.preventDefault();
     console.log(e.target);
-    // alert("Click");
+    //alert("Click");
   };
+
   return (
     <div>
-      <a tyle={{ cursor: "pointer" }} onClick={cardClickHandler}>
+      <a style={{ cursor: "pointer" }} onClick={cardClickHandler}>
         <Card style={{ width: "18rem" }}>
           <Card.Header>Block {props.number}</Card.Header>
           <ListGroup  className="list-group-flush">

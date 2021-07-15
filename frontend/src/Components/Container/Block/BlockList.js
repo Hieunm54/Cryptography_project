@@ -29,7 +29,20 @@ const initialBlockData = [
         hashOfPrev:'th123',
         nonce: 3425,
         timeStamp: 12334,
+    },{
+        number: 5,
+        hash: 'asdfg',
+        hashOfPrev:'asdf4',
+        nonce: 3425,
+        timeStamp: 12334,
     },
+    {
+        number: 6,
+        hash: 'asd32',
+        hashOfPrev:'asdfg',
+        nonce: 3425,
+        timeStamp: 12334,
+    }
 ]
 
 const BlockList = () => {
@@ -37,7 +50,7 @@ const BlockList = () => {
 
     return (
         <div style={{display: 'flex'}}>
-            {blockData.map(block =>{
+            {blockData.map(block => {
 
                 return <Block 
                 key={block.number}
