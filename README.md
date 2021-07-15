@@ -20,5 +20,5 @@ npm start
 _Frontend_
 <space>-Using Reactjs<space>
 
-_Backend_
+_Backend_ Using asp .net core web api
 <space>-
